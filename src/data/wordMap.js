@@ -1,0 +1,75 @@
+export const ATY_TYPES = [{
+    value: '线上赛事',
+    label: '线上赛事',
+    text: '线上赛事',
+}, {
+    value: '线下赛事',
+    label: '线下赛事',
+    text: '线下赛事',
+}, {
+    value: '职业技能培训',
+    label: '职业技能培训',
+    text: '职业技能培训',
+}, {
+    value: '研讨会',
+    label: '研讨会',
+    text: '研讨会',
+}, {
+    value: '展览',
+    label: '展览',
+    text: '展览',
+}, {
+    value: '品牌发布',
+    label: '品牌发布',
+    text: '品牌发布',
+}, {
+    value: '公益活动',
+    label: '公益活动',
+    text: '公益活动',
+}, {
+    value: '校园活动',
+    label: '校园活动',
+    text: '校园活动',
+}, {
+    value: '调研',
+    label: '调研',
+    text: '调研',
+}, {
+    value: '其它活动',
+    label: '其它活动',
+    text: '其它活动',
+}];
+
+export const PREF_POS = [{
+    value: '导引类',
+    label: '导引类',
+    text: '导引类',
+}, {
+    value: '接待类',
+    label: '接待类',
+    text: '接待类',
+}, {
+    value: '服务类',
+    label: '服务类',
+    text: '服务类',
+}, {
+    value: '新闻通讯类',
+    label: '新闻通讯类',
+    text: '新闻通讯类',
+}, {
+    value: '秩序维护类',
+    label: '秩序维护类',
+    text: '秩序维护类',
+}, {
+    value: '选手管理类',
+    label: '选手管理类',
+    text: '选手管理类',
+}, {
+    value: '现场表演类',
+    label: '现场表演类',
+    text: '现场表演类',
+}, {
+    value: '活动宣发类',
+    label: '活动宣发类',
+    text: '活动宣发类',
+}]

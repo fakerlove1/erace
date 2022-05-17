@@ -1,0 +1,19 @@
+/node_modules
+
+/public
+
+public/
+
+node_modules/
+
+/dist
+
+dist/
+
+src/.vuepress/.cache/
+src/.vuepress/.temp/
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr

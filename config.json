@@ -1,0 +1,9 @@
+{
+    "global": {
+        "$--color-primary": "#092B42",
+        "$--color-success": "#4799BD",
+        "$--color-warning": "#BEBEBE",
+        "$--color-info": "#FCA07C"
+    },
+    "local": {}
+}
