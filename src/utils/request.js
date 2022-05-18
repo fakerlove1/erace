@@ -13,7 +13,7 @@ import { Message, MessageBox } from 'element-ui';
 
 //'http://124.220.203.26:8090' ;'http://81.68.154.123:8090/'///测试用url
 const devURL = 'http://myapi/ ';
-export const testURL =  'http://119.23.56.255:7066/' // 开发用url
+export const testURL =  'http://106.13.40.7:9003/' // 开发用url
 // export const serveURL = 'http://218.94.50.237:28190/'
 
 
