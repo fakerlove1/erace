@@ -17,3 +17,5 @@ src/.vuepress/.temp/
 *.iws
 *.iml
 *.ipr
+
+package-lock.json
