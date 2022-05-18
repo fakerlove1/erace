@@ -3,10 +3,11 @@
  * some functions which can deal with data
  */
 import { RSAEncrypt, AESEncrypt } from './encrypt';
-import { getPubKey } from '@/api/security';
+// import { getPubKey } from '@/api/security';
 import locationOptions from '@/data/locationCascaderOptions'
 
 /**
+ *
  * 获取省市镇三级级联选择器的数据
  */
 export let locationOption = locationOptions;
